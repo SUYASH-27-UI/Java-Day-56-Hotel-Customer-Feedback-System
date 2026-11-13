@@ -1,0 +1,5 @@
+
+1001|Rahul Sharma|Excellent hotel service|5
+1002|Amit Patil|Good food and rooms|4
+1003|Priya Shah|Room cleaning was poor|2
+1004|Sneha Joshi|Very comfortable stay|5
